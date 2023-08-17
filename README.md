@@ -1,7 +1,7 @@
-# Uberdata_nyc
-This is basically 1 month data of Uber trips taken in NYC area analysed in details.
 # Uberdata NYC Project
+https://www.kaggle.com/datasets/shuhengmo/uber-nyc-forhire-vehicles-trip-data-2021https://www.kaggle.com/datasets/shuhengmo/uber-nyc-forhire-vehicles-trip-data-2021
 
+This is basically 1 month of data on Uber trips taken in the NYC area analyzed in detail.
 ![Project Logo](logo.png) <!-- Add your project logo if you have one -->
 
 Welcome to the Uberdata NYC Project! This repository contains code and resources related to analyzing and visualizing Uber data for the New York City area.
